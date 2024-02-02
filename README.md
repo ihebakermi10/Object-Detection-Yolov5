@@ -1,3 +1,4 @@
 ﻿# My Project
 #object detection from video or pictrue  
-![train_batch2](https://github.com/ihebakermi10/object-detection-yolo-/assets/90511874/2f6d65e0-1ab6-4abc-b994-0608026392f2)
+
+![image](https://github.com/ihebakermi10/object-detection-yolo-/assets/90511874/060bc8f0-5cf2-424f-8782-9cd44afe815a)
