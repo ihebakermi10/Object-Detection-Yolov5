@@ -3,7 +3,6 @@
 ![image](https://github.com/ihebakermi10/object-detection-yolo-/assets/90511874/060bc8f0-5cf2-424f-8782-9cd44afe815a)
 
 ## Overview
-https://github.com/ihebakermi10/object-detection-yolo-/assets/90511874/ee68b88f-5dfd-4a87-a29d-7e6f79a94b50
 
 This project is dedicated to object detection in images and videos using the YOLOv5 model. It leverages the YOLOv5 algorithms to identify and classify different objects within a digital media file. The repository is structured with Python scripts, Jupyter notebooks, and configuration files to facilitate easy deployment and experimentation.
 
